@@ -1,0 +1,6 @@
+{
+  "name": "Toán 7 - Cẩm Nang Trọng Tâm & Luyện Tập SGK",
+  "description": "Ứng dụng học Toán 7 Kết nối tri thức: Tổng hợp lý thuyết trọng tâm, bài tập SGK chi tiết, các dạng toán chuyên đề, AI trợ giảng giải toán thông minh và theo dõi tiến độ học tập.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
